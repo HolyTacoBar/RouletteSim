@@ -1,2 +1,2 @@
-Data\*
-RouletteGenerator\.idea\*
+**/Data
+**/.idea
